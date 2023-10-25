@@ -1,8 +1,10 @@
 # Hello!
 
-I am Rafael, PhD. in structural engineering, with focus on numerical methods and composite materials.
+Welcome to my profile!
 
-I also work with software, tools and web dev.
+I am a structural engineer with focus on numerical methods and composite materials.
+
+I also do some software, tools and web development.
 
 Feel free to check out my repositories!
 
@@ -13,8 +15,12 @@ Feel free to check out my repositories!
 | --------- | ---------------------------------------------------------- |
 | e-mail:   | rcsalomao@outlook.com                                      |
 | LinkedIn: | https://www.linkedin.com/in/rafael-corrêa-salomão-02a41497 |
-| Lattes:   | http://lattes.cnpq.br/4408319800130401                     |
 | Site:     | _work in progress_                                         |
+
+
+### My SaaS's
+
+[MMC](https://mmc.app.br): Web app for verification in accordance to brazilian design codes (ABNT NBR), for various types of materials and sections.
 
 
 ### Main programming languages
