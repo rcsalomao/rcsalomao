@@ -20,7 +20,7 @@ Feel free to check out my repositories!
 
 ### My SaaS's
 
-[MMC](https://mmc.app.br): Web app for verification in accordance to brazilian design codes (ABNT NBR), for various types of materials and sections.
+- [MMC](https://mmc.app.br): Web app for verification in accordance to brazilian design codes (ABNT NBR), for various types of materials and sections.
 
 
 ### Main programming languages
